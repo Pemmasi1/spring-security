@@ -1,5 +1,8 @@
 package com.siva.learnspringframework.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class MarioGame {
 
     public void up(){
